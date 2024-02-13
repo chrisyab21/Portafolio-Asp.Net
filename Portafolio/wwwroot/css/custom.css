@@ -1,0 +1,65 @@
+﻿body {
+
+    background-color:dodgerblue;
+}
+
+
+ #foto {
+
+     width: 250px;
+     margin: 2rem 0;
+     border-radius:50%;
+     
+
+ }
+
+.seccion-bienvenida {
+    
+    margin: 5rem 0 10rem 0;
+}
+
+.seccion-bienvenida > h1 {
+    color: white;
+    margin-bottom: 4rem;
+}
+
+.seccion-bienvenida p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+
+}
+
+#imagen-Dotnet {
+    width: 500px;
+}
+
+.cabecera {
+    font-weight: bold;
+    margin-bottom:0;
+}
+
+#contenedor-tablas{
+
+    margin-top: -105px;
+}
+
+.habilidades ul {
+    list-style: none;
+    padding-left: 0;
+    
+}
+
+
+.habilidades h3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: forestgreen;
+    font-weight: bold;
+}
+
+
+.habilidades i {
+    color:blue;
+    font-size: 40px;
+}

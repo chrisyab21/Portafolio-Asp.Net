@@ -1,0 +1,65 @@
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.staticwebassets.runtime.json
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.exe
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.deps.json
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.runtimeconfig.json
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.dll
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.pdb
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Dell\source\repos\Portafolio\Portafolio\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\bundle\Portafolio.styles.css
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CopyComplete
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.dll
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\refint\Portafolio.dll
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\appsettings.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.staticwebassets.runtime.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.exe
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.deps.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.runtimeconfig.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\Portafolio.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.build.Portafolio.props
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portafolio.props
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portafolio.props
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\bundle\Portafolio.styles.css
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.csproj.CopyComplete
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\refint\Portafolio.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
